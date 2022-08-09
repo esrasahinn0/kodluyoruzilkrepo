@@ -1,6 +1,6 @@
 
 <img width="415" alt="Screenshot 2022-08-09 225950" src="https://user-images.githubusercontent.com/109770804/183757389-10de23dd-bb0f-40e9-8020-44e1c46f28f7.png">
-# Kodluyoruz Ilk Repo
+## Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
